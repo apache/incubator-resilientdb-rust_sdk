@@ -17,6 +17,11 @@
 # under the License.
 #
 
+⚠️ This repository is deprecated.
+Active development now continues in the [ResilientDB Monorepo](https://github.com/apache/incubator-resilientdb).
+
+The Resilent Rust SDK can be found at [ecosystem/sdk/rust-sdk](https://github.com/apache/incubator-resilientdb/tree/master/ecosystem/sdk/rust-sdk).
+
 # ResilientDB Rust SDK
 
 ![Build](https://github.com/dhruvsangamwar/resilientdb_rust_sdk/actions/workflows/rust.yml/badge.svg)
